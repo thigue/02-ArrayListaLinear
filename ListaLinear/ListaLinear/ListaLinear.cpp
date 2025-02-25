@@ -14,7 +14,7 @@ void buscarElemento();
 
 
 const int MAX = 5;
-int lista[MAX]{1, 2, 3, 4, 4};
+int lista[MAX]{};
 int nElementos = 0;
 
 
